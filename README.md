@@ -63,6 +63,6 @@ REST API of PhoneBook is supports following commands:
 
 All API methods are implemented by GET method for simplification. 
 Request parameters **id** and **name** are always mandatory.
-
+The parameters in **[ ]** are not mandatory and could be ignored.
 ## Requirements
 MySQL 5.6, Gradle 4.0, Java 1.7.
